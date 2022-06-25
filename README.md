@@ -18,7 +18,7 @@
 <hr>
 
 
-<div align="center">
+<!-- <div align="center">
   
 ![Shubh's Github Stats](https://github-readme-stats.vercel.app/api?username=shubhmehta10&show_icons=true&theme=Gradient)
 
@@ -27,6 +27,6 @@
 
 [![Shubh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shubhmehta10&theme=xcode)](https://git.io/shubhmehta10)
 
-<div align="center"><hr width=34%></div>
+<div align="center"><hr width=34%></div> -->
 
 </div>
