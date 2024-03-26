@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Shubh Mehta</h1>
-<p align="center">A third year undergrad at Thadomal Shahani Engineering College. Actively learning and acquiring on demand skills.</p>
+<p align="center">CS Graduate Student at Arizona State University. Actively learning and acquiring on demand skills.</p>
 
 <div align="center">
 
@@ -8,14 +8,6 @@
 
 
 </div>
-
-### Few things about me
-
-- 🔭 I’m currently working with <b>Machine Learning and Deep Learning</b>
-- 🌱 I’m currently learning <b>Deep Learning</b>
-- 🤔 I’m looking for help with <b>Deep Learning</b>
-- 💬 Ask me about <b>Anything</b>
-<hr>
 
 
 <!-- <div align="center">
