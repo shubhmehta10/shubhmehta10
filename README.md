@@ -17,7 +17,7 @@ Master’s student in Computer Science at Arizona State University with a strong
 - **Email**: [smehta84@asu.edu](mailto:smehta84@asu.edu)
 - **Personal Email**: [mehtashubh1029@gmail.com](mailto:mehtashubh1029@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shubhmehta10](https://www.linkedin.com/in/shubhmehta10)
-- **Portfolio**: [shubhmehta]([https://github.com/shubhmehta10](https://shubhmehta10.github.io/Shubh-Mehta/))
+- **Portfolio**: [shubhmehta](https://shubhmehta10.github.io/Shubh-Mehta/)
 
 ## 🤝 Let’s Connect!
 Always open to networking and collaboration on exciting projects!
