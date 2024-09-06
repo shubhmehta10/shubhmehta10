@@ -8,9 +8,9 @@ Master’s student in Computer Science at Arizona State University with a strong
 - **Tools**: AWS, Docker, Git, GitHub, MySQL
 
 ## 📚 Education
-- **Master’s in Computer Science**  
+- **Master in Computer Science**  
   Arizona State University, USA (Expected May 2025)
-- **Bachelor’s in Information Technology**  
+- **Bachelor of Engineering in Information Technology**  
   Thadomal Shahani Engineering College, Mumbai University, India (June 2023)
 
 ## 📫 Contact Me
