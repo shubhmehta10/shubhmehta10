@@ -3,9 +3,13 @@
 Master’s student in Computer Science at Arizona State University with a strong focus on machine learning, cloud computing, and software development.
 
 ## 🔧 Skills
-- **Languages**: Python, C++, C, SQL, HTML5, CSS3
-- **Frameworks**: PyTorch, TensorFlow, Django, OpenCV
-- **Tools**: AWS, Docker, Git, GitHub, MySQL
+- **Programming Languages**: Python, C++, C, HTML5, CSS3, SQL & NoSQL, Bash
+- **Libraries & Frameworks**: PyTorch, Sklearn, Pandas, SciPy, Numpy, OpenCV, Tensorflow, Django, Django REST, Flask
+- **Databases**: MySQL, PostgreSQL, MongoDB, Elasticsearch, Neo4j
+- **Data Engineering & Visualization Tools**: Apache Kafka, Apache Pinot, Docker, Kuberenetes, Tableau, Plotly, Matplotlib, Seaborn
+- **Cloud Platforms**: AWS (S3, Lambda, RDS), Microsoft Azure
+- **Other Skills**: ETL Pipelines, Data Warehousing, Distributed Systems, Data Cleaning & Transformation, Real-Time Data Processing,
+Database Optimization, Feature Engineering, A/B Testing, and Time Series Analysis.
 
 ## 📚 Education
 - **Master in Computer Science**  
